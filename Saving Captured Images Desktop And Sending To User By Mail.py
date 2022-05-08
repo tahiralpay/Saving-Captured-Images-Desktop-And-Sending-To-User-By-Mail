@@ -1,5 +1,5 @@
 """
-                       EKİM 2020 TALPAY                  
+                       October 2020 TALPAY                  
 """
 
 from picamera import PiCamera
